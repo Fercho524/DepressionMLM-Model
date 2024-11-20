@@ -1,3 +1,8 @@
-depresslm
-Working
-Quicktest.ipynb
+.vscode
+auth
+datasets
+models
+users
+venv
+*__pycache__
+__pycache__
